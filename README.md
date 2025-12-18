@@ -64,6 +64,3 @@ The dataset contains information about Netflix Movies and TV Shows including:
 - The United States and India contribute the highest number of titles  
 - Mature ratings (TV-MA) dominate Netflix’s catalog  
 
----
-
-## 📁 Repository Structure
